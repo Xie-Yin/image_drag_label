@@ -1,7 +1,7 @@
 ### 一个可随意在图片上标记的标签，包括标签的展示
 ### 效果图展示
-<img src="https://github.com/Xie-Yin/image_drag_label/blob/main/gif/img_0.jpg" width="300"/>  <img src="https://github.com/Xie-Yin/image_drag_label/blob/main/gif/img_1.jpg" width="300"/>
-<img src="https://github.com/Xie-Yin/image_drag_label/blob/main/gif/img_2.jpg" width="300"/>  <img src="https://github.com/Xie-Yin/image_drag_label/blob/main/gif/img_3.jpg" width="300"/>
+<img src="https://github.com/Xie-Yin/image_drag_label/blob/main/img/img_0.jpg" width="300"/>  <img src="https://github.com/Xie-Yin/image_drag_label/blob/main/img/img_1.jpg" width="300"/>
+<img src="https://github.com/Xie-Yin/image_drag_label/blob/main/img/img_2.jpg" width="300"/>  <img src="https://github.com/Xie-Yin/image_drag_label/blob/main/img/img_3.jpg" width="300"/>
 
 ### 实现的功能
 - 标签只能在图片显示的范围内拖动
