@@ -1,4 +1,4 @@
-### 一个可随意在图片上标记的标签，包括标签的展示
+### 一个可随意在图片上拖动标记的标签效果
 ### [Flutter使用Draggable与自定义RenderObject实现图片添加标签，随意拖动位置效果](https://azhon.blog.csdn.net/article/details/119899192)
 ### 效果图展示
 <img src="https://github.com/Xie-Yin/image_drag_label/blob/main/img/screen_0.jpg" width="300"/>  <img src="https://github.com/Xie-Yin/image_drag_label/blob/main/img/screen_1.jpg" width="300"/>
